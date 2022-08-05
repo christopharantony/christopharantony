@@ -1,3 +1,11 @@
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Christophar+%F0%9F%91%8B;MERN-Full+Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/niyas-tk-59a30b200"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <h1 align="center">Hi 👋, I'm Christophar Antony</h1>
 <h3 align="center">A passionate full stack developer (MERN) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
